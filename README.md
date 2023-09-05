@@ -5,7 +5,6 @@
 COMMAND 😎🗿
 ```
 apt-get update && apt-get upgrade -y && apt install sudo && sudo apt-get install grub-pc && sudo apt-get purge grub-common && apt-get install lolcat -y && apt-get install figlet -y && gem install lolcat && update-grub && sleep 2 && reboot
-
 ```
 *SCRIPT 😎🗿
 ```
